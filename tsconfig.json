@@ -1,0 +1,9 @@
+{
+	"extends": "./tsconfig.build.json",
+	"include": [
+		"src/**/*",
+		"**/*.spec.ts",
+		"jest-e2e.config.ts",
+		"jest.config.ts"
+	]
+}
